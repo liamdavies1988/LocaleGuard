@@ -1,0 +1,8 @@
+{
+  "welcome_title": "Croeso i'n porthol",
+  "login_button": "",
+  "greeting": "Shwmae, {user_name}! Mae gennych {count} neges heb eu darllen.",
+  "footer": {
+    "privacy": "Polisi Preifatrwydd"
+  }
+}

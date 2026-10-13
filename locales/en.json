@@ -1,0 +1,9 @@
+{
+  "welcome_title": "Welcome to our portal",
+  "login_button": "Log in",
+  "greeting": "Hello, {username}! You have {count} unread messages.",
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

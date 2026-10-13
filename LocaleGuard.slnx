@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../LocalGuard.Tests/LocalGuard.Tests.csproj" />
+  <Project Path="LocaleGuard.csproj" />
+</Solution>
