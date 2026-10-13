@@ -1,4 +1,5 @@
 {
+  "_comment": "Welsh target locale. Note: JSON does not support comments; a top-level `_comment` key is used for human-readable notes.",
   "welcome_title": "Croeso i'n porthol",
   "login_button": "",
   "greeting": "Shwmae, {user_name}! Mae gennych {count} neges heb eu darllen.",

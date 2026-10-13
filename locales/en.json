@@ -1,4 +1,5 @@
 {
+  "_comment": "English source locale for LocaleGuard. This file is used as the canonical source for keys and placeholders.",
   "welcome_title": "Welcome to our portal",
   "login_button": "Log in",
   "greeting": "Hello, {username}! You have {count} unread messages.",
