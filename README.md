@@ -38,7 +38,7 @@ In bilingual and multilingual applications (such as English/Welsh public sector 
 ## 🚦 Getting Started
 
 ### Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
 ### Installation & Run
 ```bash
